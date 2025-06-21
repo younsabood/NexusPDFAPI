@@ -1,9 +1,102 @@
 [
-{
-  "version": "1.0.0",
-  "release_date": "2024-06-20",
-  "title": "First App Release",
-  "notes": "This initial release includes a new user interface and core features. We welcome your feedback!",
-  "download_link": "https://example.com/app/latest/app-release.apk"
-}
+
+  {
+
+    "version": "1.0.0 (Demo)",
+
+    "release_date": "2025-06-21",
+
+    "title": "NexusPDF Demo Release: Experience Document Intelligence!",
+
+    "notes": "Welcome to the **NexusPDF Demo for PC**! We're excited to give you a sneak peek into how NexusPDF, powered by **Gemini 2.5 Pro AI**, can revolutionize the way you interact with your documents. This demo version provides a hands-on experience of our core functionalities, designed to transform static content into dynamic learning and management tools.\n\n**In this demo, you can explore:**\n\n* **Interactive Q&A Test Generation (Limited):** Upload a sample document and see how NexusPDF's AI generates intelligent questions. (Note: Document size and feature usage may be restricted in this demo).\n* **Flash Card Generation (Sample Data):** Witness the automatic extraction of key terms and definitions to create personalized flash cards using pre-loaded examples.\n* **AI-Powered Document Management (Preview):** Get a glimpse of the intuitive UI for AI-powered tagging and searching through a sample document library. Cloud synchronization and advanced search features are demonstrated with limited functionality.\n\nThis demo is a taste of the full NexusPDF experience. We've focused on showcasing the stability and user-friendliness of our groundbreaking features. We value your insights! Please use the in-app feedback tool to share your thoughts on your demo experience. Thank you for exploring NexusPDF!",
+
+    "download_link": {
+
+      "windows": "https://example.com/nexuspdf/demo/nexuspdf-demo-setup-windows.exe",
+    },
+
+    "features_overview": [
+
+      {
+
+        "name": "Interactive Q&A Tests (Demo Mode)",
+
+        "description": "Experience how NexusPDF's AI analyzes your PDFs, PPTs, and Word documents to generate various question types. Limited document size for processing in this demo.",
+
+        "icon": "📝"
+
+      },
+
+      {
+
+        "name": "AI-Powered Flash Card Generation (Sample View)",
+
+        "description": "See how key concepts and definitions are extracted from documents to create custom flash cards. Functionality limited to pre-loaded sample data.",
+
+        "icon": "🧠"
+
+      },
+
+      {
+
+        "name": "Gemini 2.5 Pro AI Document Management (Preview)",
+
+        "description": "Explore the intuitive interface for AI-powered document tagging, basic search, and a visual representation of cloud sync capabilities with limited data.",
+
+        "icon": "✨"
+
+      },
+
+      {
+
+        "name": "Intuitive Desktop UI/UX",
+
+        "description": "Navigate a modern, responsive user interface optimized for PC, designed for ease of use and accessibility.",
+
+        "icon": "🖥️"
+
+      }
+
+    ],
+
+    "bug_fixes": [
+
+      "Addressed minor UI glitches on various screen resolutions.",
+
+      "Optimized performance for demo-specific operations.",
+
+      "Ensured stable execution of all demo features."
+
+    ],
+
+    "known_issues": [
+
+      "Document processing size is capped for demo purposes.",
+
+      "Some advanced customization options for Q&A tests are disabled.",
+
+      "Cloud synchronization functionality is simulated or limited to sample data.",
+
+      "Full natural language search capabilities are restricted to a smaller dataset.",
+
+      "Only a subset of security features are fully active in the demo environment."
+
+    ],
+
+    "feedback_channels": [
+
+      "In-App Feedback Tool (Recommended for Demo Users)",
+
+      "Demo Support Email: demo-support@nexuspdf.com"
+
+    ],
+
+    "developer_notes": "This demo offers a glimpse into NexusPDF's potential, showcasing core AI capabilities and UI responsiveness. Certain features are scaled down or simulated to provide a quick, efficient experience. We are actively working on the full release and appreciate your valuable feedback from this demo!",
+    },
+
+    "license_information": "This is a free demo version for evaluation purposes. No license key is required. Full features are available in the complete NexusPDF application.",
+
+    "trial_period": "N/A (This is a dedicated demo version, not a timed trial of the full product)."
+  }
 ]
+
