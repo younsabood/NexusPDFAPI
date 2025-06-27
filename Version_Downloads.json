@@ -1,0 +1,105 @@
+```json
+{
+  "versions": [
+    {
+      "version_name": "1.0.0",
+      "platforms": {
+        "Windows": {
+          "version": "1.0.0",
+          "released": "June 20, 2025",
+          "status": "Stable",
+          "size": "240 MB",
+          "download_link": "https://example.com/downloads/v1.0.0/windows"
+        },
+        "macOS": {
+          "version": "1.0.0",
+          "released": "June 20, 2025",
+          "status": "Stable",
+          "size": "260 MB",
+          "download_link": "https://example.com/downloads/v1.0.0/macos"
+        },
+        "iOS": {
+          "version": "1.0.0",
+          "released": "June 20, 2025",
+          "status": "Stable",
+          "size": "100 MB",
+          "download_link": "Coming Soon"
+        },
+        "Android": {
+          "version": "1.0.0",
+          "released": "June 20, 2025",
+          "status": "Stable",
+          "size": "90 MB",
+          "download_link": "https://example.com/downloads/v1.0.0/android"
+        }
+      }
+    },
+    {
+      "version_name": "1.0.1",
+      "platforms": {
+        "Windows": {
+          "version": "1.0.1",
+          "released": "June 25, 2025",
+          "status": "Beta Testing",
+          "size": "250 MB",
+          "download_link": "Coming Soon"
+        },
+        "macOS": {
+          "version": "1.0.1",
+          "released": "June 25, 2025",
+          "status": "Beta Testing",
+          "size": "270 MB",
+          "download_link": "Coming Soon"
+        },
+        "iOS": {
+          "version": "1.0.1",
+          "released": "June 25, 2025",
+          "status": "Beta Testing",
+          "size": "110 MB",
+          "download_link": "Coming Soon"
+        },
+        "Android": {
+          "version": "1.0.1",
+          "released": "June 25, 2025",
+          "status": "Beta Testing",
+          "size": "100 MB",
+          "download_link": "Coming Soon"
+        }
+      }
+    },
+    {
+      "version_name": "1.0.2",
+      "platforms": {
+        "Windows": {
+          "version": "1.0.2",
+          "released": "July 10, 2025",
+          "status": "Pre-Alpha",
+          "size": "255 MB",
+          "download_link": "Coming Soon"
+        },
+        "macOS": {
+          "version": "1.0.2",
+          "released": "July 10, 2025",
+          "status": "Pre-Alpha",
+          "size": "275 MB",
+          "download_link": "Coming Soon"
+        },
+        "iOS": {
+          "version": "1.0.2",
+          "released": "July 10, 2025",
+          "status": "Pre-Alpha",
+          "size": "112 MB",
+          "download_link": "Coming Soon"
+        },
+        "Android": {
+          "version": "1.0.2",
+          "released": "July 10, 2025",
+          "status": "Pre-Alpha",
+          "size": "102 MB",
+          "download_link": "Coming Soon"
+        }
+      }
+    }
+  ]
+}
+```
