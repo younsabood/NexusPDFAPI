@@ -98,39 +98,6 @@
           "download_link": "Coming Soon"
         }
       }
-    },
-    {
-      "version_name": "2.5.3",
-      "platforms": {
-        "Windows": {
-          "version": "2.5.3",
-          "released": "June 29,2025",
-          "status": "Stable",
-          "size": "255",
-          "download_link": "ss"
-        },
-        "macOS": {
-          "version": "2.5.3",
-          "released": "June 29,2025",
-          "status": "Coming Soon",
-          "size": "0",
-          "download_link": ""
-        },
-        "Android": {
-          "version": "2.5.3",
-          "released": "June 29,2025",
-          "status": "Coming Soon",
-          "size": "0",
-          "download_link": ""
-        },
-        "iOS": {
-          "version": "2.5.3",
-          "released": "June 29,2025",
-          "status": "Coming Soon",
-          "size": "0",
-          "download_link": ""
-        }
-      }
     }
   ]
 }
