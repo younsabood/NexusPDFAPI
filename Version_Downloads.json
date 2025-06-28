@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "version_name": "1.0.0",Add commentMore actions
+      "version_name": "1.0.0",
       "platforms": {
         "Windows": {
           "version": "1.0.0",
