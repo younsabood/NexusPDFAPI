@@ -1,67 +1,56 @@
-{
-  "app_versions": [
-    {
-      "version": "1.0.0",
-      "features": [
-        {
-          "name": "App Screenshots",
-          "title": "Main Application Views",
-          "image_urls": [
-            "https://example.com/v1_app_screenshot_1.jpg",
-            "https://example.com/v1_app_screenshot_2.jpg",
-            "https://example.com/v1_app_screenshot_3.jpg",
-            "https://example.com/v1_app_screenshot_4.jpg",
-            "https://example.com/v1_app_screenshot_5.jpg",
-            "https://example.com/v1_app_screenshot_6.jpg",
-            "https://example.com/v1_app_screenshot_7.jpg",
-            "https://example.com/v1_app_screenshot_8.jpg"
-          ],
-          "description": "A collection of screenshots showcasing the main interface of version 1.0.0."
-        },
-        {
-          "name": "Document to Q&A Conversion",
-          "title": "Document Transformation Feature",
-          "image_urls": [
-            "https://example.com/v1_doc_to_qa_1.jpg",
-            "https://example.com/v1_doc_to_qa_2.jpg"
-          ],
-          "description": "Seamlessly convert your documents into interactive question-and-answer sets for easy learning and testing."
-        }
-      ]
-    },
-    {
-      "version": "2.0.0",
-      "features": [
-        {
-          "name": "New User Interface",
-          "title": "Refreshed Design & Layout",
-          "image_urls": [
-            "https://example.com/v2_ui_screenshot_1.jpg",
-            "https://example.com/v2_ui_screenshot_2.jpg",
-            "https://example.com/v2_ui_screenshot_3.jpg",
-            "https://example.com/v2_ui_screenshot_4.jpg"
-          ],
-          "description": "Experience a modern and intuitive interface designed for improved usability and navigation."
-        },
-        {
-          "name": "Enhanced Document Conversion",
-          "title": "Advanced Document Processing",
-          "image_urls": [
-            "https://example.com/v2_enhanced_doc_1.jpg",
-            "https://example.com/v2_enhanced_doc_2.jpg"
-          ],
-          "description": "Improved accuracy and speed for converting various document formats into precise question and answer pairs."
-        },
-        {
-          "name": "Quiz Generation Module",
-          "title": "Automated Quiz Creation",
-          "image_urls": [
-            "https://example.com/v2_quiz_gen_1.jpg",
-            "https://example.com/v2_quiz_gen_2.jpg"
-          ],
-          "description": "Generate custom quizzes automatically from your converted Q&A sets, complete with different question types."
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "version": "1.0.0",
+    "features": [
+      {
+        "name": "App Screenshots",
+        "title": "Main Application Views",
+        "image_urls": [
+          "https://example.com/v1_app_screenshot_1.jpg",
+          "https://example.com/v1_app_screenshot_2.jpg",
+          "https://example.com/v1_app_screenshot_3.jpg",
+          "https://example.com/v1_app_screenshot_4.jpg",
+          "https://example.com/v1_app_screenshot_5.jpg",
+          "https://example.com/v1_app_screenshot_6.jpg",
+          "https://example.com/v1_app_screenshot_7.jpg",
+          "https://example.com/v1_app_screenshot_8.jpg"
+        ],
+        "description": "A collection of screenshots showcasing the main interface of version 1.0.0."
+      },
+      {
+        "name": "Document to Q&A Conversion",
+        "title": "Document Transformation Feature",
+        "image_urls": [
+          "https://example.com/v1_doc_to_qa_1.jpg",
+          "https://example.com/v1_doc_to_qa_2.jpg"
+        ],
+        "description": "Seamlessly convert your documents into interactive question-and-answer sets for easy learning and testing."
+      }
+    ]
+  },
+  {
+    "version": "2.0.0",
+    "features": [
+      {
+        "name": "New User Interface",
+        "title": "Refreshed Design & Layout",
+        "image_urls": [
+          "https://example.com/v2_ui_screenshot_1.jpg",
+          "https://example.com/v2_ui_screenshot_2.jpg",
+          "https://example.com/v2_ui_screenshot_3.jpg",
+          "https://example.com/v2_ui_screenshot_4.jpg"
+        ],
+        "description": "Experience a modern and intuitive interface designed for improved usability and navigation."
+      },
+      {
+        "name": "Enhanced Document Conversion",
+        "title": "Advanced Document Processing",
+        "image_urls": [
+          "https://example.com/v2_enhanced_doc_1.jpg",
+          "https://example.com/v2_enhanced_doc_2.jpg"
+        ],
+        "description": "Improved accuracy and speed for converting various document formats into precise question and answer pairs."
+      }
+    ]
+  }
+]
